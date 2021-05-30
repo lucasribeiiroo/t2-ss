@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="t2-ss">
+    <output-path>$PROJECT_DIR$/classes/artifacts/t2_ss</output-path>
+    <root id="root">
+      <element id="archive" name="t2_ss.jar">
+        <element id="module-output" name="t2-ss" />
+      </element>
+    </root>
+  </artifact>
+</component>
